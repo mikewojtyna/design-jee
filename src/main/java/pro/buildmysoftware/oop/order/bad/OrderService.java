@@ -1,4 +1,4 @@
-package pro.buildmysoftware.oop.order.informationexpert.bad;
+package pro.buildmysoftware.oop.order.bad;
 
 import java.util.Collection;
 

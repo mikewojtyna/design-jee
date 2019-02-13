@@ -1,4 +1,4 @@
-package pro.buildmysoftware.oop.order.informationexpert.good;
+package pro.buildmysoftware.oop.order.good;
 
 class OrderItem {
 	private String product;
